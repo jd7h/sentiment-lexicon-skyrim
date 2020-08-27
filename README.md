@@ -6,5 +6,5 @@ Files for a research paper about sentiment analysis on video games texts, in thi
 ### Data
 - Ratings_Warriner_et_al.csv: E-ANEW dataset by Warriner et al. (2013)  with sentiment ratings for 13,000+ English words, sourced from [The Center for Reading Research of the Department of Experimental Psychology of Ghent University](http://crr.ugent.be/archives/1003)
 - dict_words_en.json: list of English words, sourced from [this Github repo](https://github.com/dwyl/english-words).
-- imperial_library.json: dataset of 4,800+ in-game books (text and meta-data) from games from The Elder Scrolls series, scraped from The [Imperial Library]().
+- imperial_library.json: dataset of 4,800+ in-game books (text and meta-data) from games from The Elder Scrolls series, scraped from The [Imperial Library](). For the latest version of this dataset, go to the [Video Game Text Corpora repository](https://github.com/hmi-utwente/video-game-text-corpora/tree/master/The%20Elder%20Scrolls).
 - skyrim_dialogue.csv: tab-separated text-dump of Skyrim dialogue, including quest line and quest branch identifier, sourced from [Thuum.org](). Warning: this file contains spoilers for the game!
